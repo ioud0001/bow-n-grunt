@@ -1,0 +1,70 @@
+@charset "UTF-8";
+/* CSS Document */
+
+/*
+	background-image: url(../assets/images/flower.png);
+	background-position: top;
+	background-size: cover;
+	background-repeat: no-repeat;
+	background-clip:padding-box;
+}
+main{
+	margin-bottom: 20px;
+	border-right: 1px dotted darkgoldenrod;
+	border-left: 1px dotted darkgoldenrod;
+	border-bottom: 1px dotted darkgoldenrod;
+	border-top: none;
+}
+
+a{
+	color: darkgoldenrod;
+	font-weight: 900;
+	background-color: bisque;
+}
+
+a:hover{
+	background-color: salmon;
+	color: bisque;
+}
+h1{
+	font-family: fantasy, sans-serif;
+	font-stretch: ultra-expanded;
+	color: blanchedalmond;
+	text-shadow: 1px 1px black;
+	
+}
+.nav-tabs{
+	border-bottom: 1px dotted darkgoldenrod;
+}
+.nav-tabs a:hover{
+	color: salmon;
+	font-weight: bold;
+	box-shadow: 1px 0px 10px 0px burlywood; 
+}
+
+.modal-header{
+	padding: 3px; 
+	border-bottom: 3px solid burlywood;
+}
+.page-header{
+	border-bottom: 3px groove blanchedalmond;
+}
+
+.container-fluid{
+	background-color: blanchedalmond;
+	opacity: 0.9;
+}
+.container-fluid p{
+	font-weight: 900;
+	
+}
+li [role="presentation"]{
+	background-color: bisque;
+}
+footer{
+	border-top: 1px dotted salmon;
+	color: salmon;
+	background-color: bisque;
+	
+}
+
